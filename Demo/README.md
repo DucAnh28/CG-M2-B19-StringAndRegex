@@ -21,3 +21,6 @@ Là tập hợp các ký tự , hằng chuỗi bao gồm một hoặc nhiều k�
 ### - startWith() : Trả về true/false nếu chuỗi bắt đầu bằng ký tự truyền vào 
 ### - endWith() : Trả về true/false nếu chuỗi kết thúc bằng ký tự truyền vào 
 ### - contains(a) : Trả về true/false nếu trong chuỗi có ký tự a
+
+##### https://v1study.com/java-ham-xu-ly-chuoi-string-a577.html
+##### https://gotiengviet.com.vn/bang-ma-unicode/
