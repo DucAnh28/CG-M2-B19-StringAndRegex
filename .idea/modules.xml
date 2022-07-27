@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BT1-ValidateClass/BT1-ValidateClass.iml" filepath="$PROJECT_DIR$/BT1-ValidateClass/BT1-ValidateClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/CG-M2-B19-StringAndRegex.iml" filepath="$PROJECT_DIR$/CG-M2-B19-StringAndRegex.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo/Demo.iml" filepath="$PROJECT_DIR$/Demo/Demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/TH1-ValidateEmail/TH1-ValidateEmail.iml" filepath="$PROJECT_DIR$/TH1-ValidateEmail/TH1-ValidateEmail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TH2-ValidateAccount/TH2-ValidateAccount.iml" filepath="$PROJECT_DIR$/TH2-ValidateAccount/TH2-ValidateAccount.iml" />
     </modules>
   </component>
 </project>
