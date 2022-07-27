@@ -5,7 +5,7 @@ public class DemoHandlingString {
 
     public static void main(String[] args) {
         String demo1 = "DucAnh";
-        String demo2 = demo1.toLowerCase();
+        String demo2 = demo1.toLowerCase(); //ducanh
         System.out.println(example1.length());
 
 //        method equals()
@@ -33,6 +33,7 @@ public class DemoHandlingString {
         System.out.println(example1.startsWith("D"));
         System.out.println(example1.startsWith("d"));
         System.out.println(example1.startsWith("A"));
+//        System.out.println(example1.startsWith(" "));
         System.out.println(example1.startsWith("!"));
         System.out.println("----------------------------");
 //        method endWith()
