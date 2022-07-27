@@ -1,3 +1,5 @@
+package String;
+
 import java.lang.String;
 
 public class DemoString {

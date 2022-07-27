@@ -1,3 +1,5 @@
+package String;
+
 public class DemoHandlingString {
     private static String example1 = "DucAnh";
 
@@ -43,5 +45,6 @@ public class DemoHandlingString {
         System.out.println("Method contains :");
         System.out.println(example1.contains("c"));
         System.out.println(example1.contains("C"));
+        System.out.println(example1.contains("Duc"));
     }
 }
